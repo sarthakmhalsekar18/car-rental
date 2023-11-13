@@ -90,7 +90,7 @@
 
                                                 if ($rows == 1) {
                                                     $_SESSION['username'] = $username;
-                                                    header("Location: home.php");
+                                                    header("Location: index.php");
                                                 } else {
                                                     echo "<div class='form'>
                                                           <h3>Incorrect Username/password.</h3><br/>
