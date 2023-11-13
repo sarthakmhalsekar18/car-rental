@@ -39,7 +39,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["toggle_status"])) {
 }
 
 // Redirect back to the specified page with the anchor
-$redirect_url = 'http://localhost/DBMS_%20PROJECT5/admin_panel/index.php#cars';
+$redirect_url = 'http://localhost/car-rental-master/admin_panel/index.php#cars';
 header("Location: $redirect_url");
 exit();
 ?>
