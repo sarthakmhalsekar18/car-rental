@@ -20,7 +20,7 @@
         <div class="bx bx-menu" id="menu-icon"></div>
     
         <ul class="navbar">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="home.php">Home</a></li>
             <li><a href="ride.php">Ride</a></li>
             <li><a href="services.php">Service</a></li>
             <li><a href="about.php">About</a></li>
@@ -76,6 +76,11 @@
             <a href="#"><i class="fab fa-twitter"></i></a>
         </div>
     </div>
+
+    <script type="text/javascript" src="main.js"></script>
+</body>
+</html>
+
 
     <script type="text/javascript" src="main.js"></script>
 </body>
